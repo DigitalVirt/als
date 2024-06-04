@@ -1,10 +1,10 @@
-[![docker image build](https://github.com/wikihost-opensource/als/actions/workflows/docker-image.yml/badge.svg)](https://github.com/wikihost-opensource/als/actions/workflows/docker-image.yml)
+[![docker image build](https://github.com/DigitalVirt/als/actions/workflows/docker-image.yml/badge.svg)](https://github.com/DigitalVirt/als/actions/workflows/docker-image.yml)
 
 # ALS - Another Looking-glass Server
 
 ## Quick start
 ```
-docker run -d --name looking-glass --restart always --network host wikihostinc/looking-glass-server
+docker run -d --name looking-glass --restart always --network host DigitalVirt/looking-glass-server
 ```
 
 ## Host Requirements
@@ -43,6 +43,8 @@ docker run -d --name looking-glass --restart always --network host wikihostinc/l
 https://github.com/librespeed/speedtest
 
 https://www.jetbrains.com/
+
+WikiHOST openSource
 
 ## License
 
