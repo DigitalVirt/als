@@ -4,7 +4,7 @@
 
 ## Quick start
 ```
-docker run -d --name looking-glass --restart always --network host DigitalVirt/als
+docker run -d --name looking-glass --restart always --network host digitalvirtllc/looking-glass-server
 ```
 
 ## Host Requirements
