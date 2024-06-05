@@ -2,6 +2,7 @@ import './assets/base.css'
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import App from './App.vue'
+import "preline/preline";
 import VueApexCharts from 'vue3-apexcharts'
 const app = createApp(App)
 
